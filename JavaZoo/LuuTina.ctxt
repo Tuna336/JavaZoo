@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LuuTina
+comment0.text=\n\ Write\ a\ description\ of\ class\ TinaLuu\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=LuuTina()
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=int\ getLegs()
+comment4.params=
+comment4.target=java.lang.String\ speak()
+comment5.params=
+comment5.target=java.lang.String\ getDisposition()
+comment6.params=
+comment6.target=java.lang.String\ getName()
+numComments=7
